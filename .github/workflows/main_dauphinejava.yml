@@ -50,4 +50,4 @@ jobs:
           app-name: 'Dauphinejava'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34A0B132CC7147D3A0E78C7C6F98DB7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BA8EF22874D4310B9A8758573D71977 }}
